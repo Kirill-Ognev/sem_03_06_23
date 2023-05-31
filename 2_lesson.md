@@ -11,3 +11,7 @@ write of vetka_2
 
 write on master 
 write on vetka_3
+
+
+
+write on vetka_4
