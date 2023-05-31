@@ -4,3 +4,4 @@ vetka master write
 
 write of vetka_2
 
+master fix conflict
