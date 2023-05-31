@@ -6,4 +6,8 @@ write of vetka_2
 
 
 
-write of vetka_3
+
+
+
+write on master 
+write on vetka_3
