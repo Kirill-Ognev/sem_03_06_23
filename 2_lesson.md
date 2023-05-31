@@ -1,0 +1,1 @@
+vetka master write
