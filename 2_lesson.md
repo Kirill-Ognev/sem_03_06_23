@@ -18,3 +18,5 @@ write on vetka_4
 
 
 merge on master
+
+то что я написал в GitHub
